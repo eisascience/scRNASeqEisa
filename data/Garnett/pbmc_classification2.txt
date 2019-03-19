@@ -1,0 +1,11 @@
+>B cells
+expressed: CD19, MS4A1, CD79A, HLA-DQA1, HLA-DQB1, TCL1A, LINC00926, HLA-DMA, HLA-DQA2, HLA-DMB
+
+>CD4 T cells
+expressed: CD4, IL7R, NOSIP, RGS10
+
+>CD8 T cells
+expressed: CD8A, CD8B, GZMK, LYAR
+
+>NK cells
+expressed: NKG7, GZMA, GNLY, FGFBP2, SPON2, FCGR3A, FCER1G, CCL4, GZMH
